@@ -1,0 +1,7 @@
+Xylo: Lorin
+Zara: Lorin
+Mystar: Lorin; Zara
+Lorin: Mystar; Zara
+mert: Lorin; cdog1; Xylo
+cdog1: cdog2; cdog3; cdog4; mert
+Alp: Lorin

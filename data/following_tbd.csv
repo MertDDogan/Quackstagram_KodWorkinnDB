@@ -1,0 +1,15 @@
+follower_user,followed_user
+Xylo,Lorin
+Zara,Lorin
+Mystar,Lorin
+Mystar,Zara
+Lorin,Mystar
+Lorin,Zara
+mert,Lorin
+mert,cdog1
+mert,Xylo
+cdog1,cdog2
+cdog1,cdog3
+cdog1,cdog4
+cdog1,mert
+Alp,Lorin
